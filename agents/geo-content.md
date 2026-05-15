@@ -51,4 +51,5 @@ Experience is the newest E-E-A-T dimension. It rewards content that demonstrates
 - 6-10: Minimal experience signals. Some specifics but mostly theoretical.
 - 11-15: Moderate experience. Clear evidence of familiarity with the topic.
 - 16-20: Strong experience. Multiple first-hand signals, original data or case studies.
-- 21-25: Exceptional. Rich with original research, detailed case studies, and verifiable first-hand evidence.
+- 21-25: Exceptional. Rich with original research, detailed case studies, and verifiable first-hand data.
+<!-- NOTE: In practice I rarely see scores above 18 for typical blog content; 21-25 should be reserved for academic-style posts with published data or extensive documented experiments -->
