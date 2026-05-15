@@ -70,6 +70,4 @@ For each detected schema block, validate against Schema.org specifications:
 - Empty or placeholder values
 - Duplicate conflicting schema blocks
 - Nesting errors
-
-<!-- Personal note: also flag missing `url` property on Organization/Person types -->
-<!-- since this is one of the most common oversights I've seen and it matters for sameAs resolution -->
+- Missing `url` property on Organization/Person types (important for sameAs linking)
